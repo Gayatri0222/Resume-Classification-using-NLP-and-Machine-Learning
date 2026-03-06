@@ -1,0 +1,14 @@
+streamlit
+joblib
+pdfplumber
+python-docx
+scikit-learn
+numpy
+pandas
+matplotlib
+nltk
+regex
+tqdm
+wordcloud
+lxml
+pillow
