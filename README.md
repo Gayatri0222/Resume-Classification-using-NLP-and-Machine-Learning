@@ -9,6 +9,8 @@ The application allows users to upload a resume in PDF or DOCX format or paste r
 
 This project demonstrates how machine learning can assist in automating the resume screening process in recruitment systems.
 
+Live Demo [https://resume-classification-using-nlp-and-machine-learning-jj8kkx7gw.streamlit.app/]
+
 ---
 
 # Features
